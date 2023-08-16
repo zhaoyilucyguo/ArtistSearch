@@ -1,6 +1,11 @@
-# Hw8Angular
+# Artsy API Website
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+This project is a website built using Angular, TypeScript, and Node.js that allows users to search for artists and artworks using the Artsy API.
+
+## Features
+
+- Artist search: Users can search for artists and view their information.
+- Artwork search: Users can search for artworks and view details about them.
 
 ## Development server
 
